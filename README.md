@@ -1,2 +1,2 @@
 You can see live from here :
-https://app.netlify.com/sites/adib-todolist
+https://adib-todolist.netlify.app/
